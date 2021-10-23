@@ -1,6 +1,6 @@
 # Kia ora and Welcome 👋
 
-_Kia ora_ is a greeting in Te Reo Māori, the indigenous language of Aoeteroa, New Zealand.
+_Kia ora_ is a greeting in Te Reo Māori, the indigenous language of Aoetearoa, New Zealand.
 
 ### 😄 Who am I?
 My name is Shivan Sivakumaran. I am a Kiwi-born 🇳🇿 with Sri Lankan 🇱🇰 heritage.
