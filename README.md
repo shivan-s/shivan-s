@@ -3,11 +3,11 @@
 _Kia ora_ is a greeting in Te Reo Māori, the indigenous language of Aoetearoa, New Zealand.
 
 ### 😄 Who am I?
-My name is Shivan Sivakumaran. I am a Kiwi-born 🇳🇿 with Sri Lankan 🇱🇰 heritage.
+My name is Shivan Sivakumaran. I am Kiwi 🇳🇿 with Sri Lankan 🇱🇰 heritage.
 
-An Optometrist by trade, I have am very interested in programming and technology in general.
+An Optometrist by trade, I am very interested in programming and technology in general.
 
-Strange peering, right? Eyecare 👓 and technology 🖥️. As an Optometrist, I work with people one-to-one. However, technology is a powerful tool that allows me to help others at scale.
+Strange pairing, right? Eyecare 👓 and technology 🖥️. As an Optometrist, I work with people one-to-one. However, technology is a powerful tool that allows me to help others at scale.
 
 ###  🔭 I’m currently working on
 - [Green Your Impact]("https://github.com/shivans93/green-your-impact"): An application written using Django REST Framework and ReactJS to reward users for reducing carbon emissions
@@ -30,7 +30,8 @@ Strange peering, right? Eyecare 👓 and technology 🖥️. As an Optometrist, 
 - Becoming a better person and programmer
 
 ### 💬 Ask me about
-- I've very new to technology so you can ask me on how to begin the journey of getting into techology
+- I'm very new to technology so you can ask me on how to begin the journey of getting into techology
+- Anything related to eyes
 
 ### 📫 How to reach me
 - Email Newsletter: https://email.shivansivakumaran.com
