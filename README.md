@@ -1,6 +1,6 @@
 # Kia ora and Welcome 👋
 
-_Kia ora_ is a greeting in Te Reo Māori, the indigenous language of Aoetearoa, New Zealand.
+_Kia ora_ is a greeting in Te Reo Māori, the indigenous language of Aotearoa, New Zealand.
 
 ### 😄 Who am I?
 My name is Shivan Sivakumaran. I am Kiwi 🇳🇿 with Sri Lankan 🇱🇰 heritage.
@@ -10,7 +10,6 @@ An Optometrist by trade, I am very interested in programming and technology in g
 Strange pairing, right? Eyecare 👓 and technology 🖥️. As an Optometrist, I work with people one-to-one. However, technology is a powerful tool that allows me to help others at scale.
 
 ###  🔭 I’m currently working on
-- [My Blog]("https://github.com/shivans93/shivan-blog"): A blog written in Wagtail and Django
 - [Optom Chitchat]("https://github.com/optom-chitchat"): A Django application for optometrists to post annoying things about their day
 - [Green Your Impact]("https://github.com/shivans93/green-your-impact"): An application written using Django REST Framework and ReactJS to reward users for reducing carbon emissions
 - [Nutrify](https://github.com/shivans93/nutrify): Working alongside [mrdbourke](https://github.com/mrdbourke) in creating an application where users can learn about nutrient data simple by taking a photo of what they are eating.
