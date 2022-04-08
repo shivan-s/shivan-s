@@ -12,22 +12,23 @@ Strange pairing, right? Eyecare 👓 and technology 🖥️. As an Optometrist, 
 
 ### 🔭 I’m currently working on
 
-- [Optom Chitchat]("https://github.com/ChristchurchCityWeighlifting"): This is an API / Frontend to act as a storage for weightlifting results in New Zealand.
+- [LifterAPI]("https://github.com/ChristchurchCityWeighlifting/lifter-api"): This is an API / Frontend to act as a storage for weightlifting results in New Zealand.
 
 ### 🌱 I’m currently learning
 
 - Python
 - Django
-- Machine Learning
-- Data Science
+- Django REST Framework
 - Javascript
 - TypeScript
-- React
 - DevOps
+- React
+- Machine Learning
+- Data Science
 
 ### 👯 I’m looking to collaborate on
 
-- Anything Python, Django, Machine Learning related
+- Anything Python related and web :)
 
 ### 🤔 I’m looking for help with
 
@@ -43,6 +44,7 @@ Strange pairing, right? Eyecare 👓 and technology 🖥️. As an Optometrist, 
 
 - I have a dog named Bruno and a cat named Amber.
 - I do Weightlifting
+- I have a YouTube channel and newsletter where I share my authentic self ;)
 
 ### 📫 How to reach me
 
