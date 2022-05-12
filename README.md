@@ -12,7 +12,7 @@ Strange pairing, right? Eyecare 👓 and technology 🖥️. As an Optometrist, 
 
 ### 🔭 I’m currently working on
 
-- [LifterAPI]("https://github.com/ChristchurchCityWeighlifting/lifter-api"): This is an API / Frontend to act as a storage for weightlifting results in New Zealand.
+- [LifterAPI](https://github.com/WeightliftingNZ/lifter-api): This is an API / Frontend to act as a storage for weightlifting results in New Zealand.
 
 ### 🌱 I’m currently learning
 
@@ -37,29 +37,16 @@ Strange pairing, right? Eyecare 👓 and technology 🖥️. As an Optometrist, 
 
 ### 💬 Ask me about
 
-- I'm very new to technology so you can ask me on how to begin the journey of getting into techology
+- I'm very new to technology so you can ask me on how to begin the journey of getting into technology
 - Anything related to eyes
 
 ### ⚡ Fun fact:
 
 - I have a dog named Bruno and a cat named Amber.
 - I do Weightlifting
-- I have a YouTube channel and newsletter where I share my authentic self ;)
+- I have a YouTube channel and newsletter where I share my authentic self.
 
 ### 📫 How to reach me
 
 - [Email Newsletter](https://email.shivansivakumaran.com)
 - [YouTube](https://www.youtube.com/c/ShivanSivakumaran)
-<!--
-**ShivanS93/ShivanS93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-  -->
