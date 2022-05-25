@@ -14,6 +14,7 @@ Strange pairing, right? Eyecare 👓 and technology 🖥️. As an Optometrist, 
 
 - [LifterAPI](https://github.com/WeightliftingNZ/lifter-api): This is an API / Frontend to act as a storage for weightlifting results in New Zealand.
 
+
 ### 🌱 I’m currently learning
 
 - Python
@@ -50,3 +51,4 @@ Strange pairing, right? Eyecare 👓 and technology 🖥️. As an Optometrist, 
 
 - [Email Newsletter](https://email.shivansivakumaran.com)
 - [YouTube](https://www.youtube.com/c/ShivanSivakumaran)
+
