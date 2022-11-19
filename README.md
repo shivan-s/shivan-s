@@ -14,7 +14,6 @@ Strange pairing, right? Eyecare 👓 and technology 🖥️. As an Optometrist, 
 
 - [LifterAPI](https://github.com/WeightliftingNZ/lifter-api): This is an API / Frontend to act as a storage for weightlifting results in New Zealand.
 
-
 ### 🌱 I’m currently learning
 
 - Python
@@ -41,14 +40,12 @@ Strange pairing, right? Eyecare 👓 and technology 🖥️. As an Optometrist, 
 - I'm very new to technology so you can ask me on how to begin the journey of getting into technology
 - Anything related to eyes
 
-### ⚡ Fun fact:
+### ⚡ Fun facs
 
 - I have a dog named Bruno and a cat named Amber.
-- I do Weightlifting
-- I have a YouTube channel and newsletter where I share my authentic self.
 
 ### 📫 How to reach me
 
-- [Email Newsletter](https://email.shivansivakumaran.com)
+- [Email Newsletter](https://email.shivan.xyz)
 - [YouTube](https://www.youtube.com/c/ShivanSivakumaran)
-
+- [Mastodon](https://fosstodon.org/@shivan)
